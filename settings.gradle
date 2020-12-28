@@ -1,0 +1,2 @@
+rootProject.name='Login_TP1'
+include ':app'
